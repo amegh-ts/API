@@ -1,10 +1,11 @@
-
+{
   "apiData": [
     {
-      "id": 1,
-      "type": "male",
-      "name": "shirt",
-      "thumbnail": "./Assets/Shirt.png"
+      id: 1,
+      type: "male",
+      name: "shirt",
+      thumbnail: "/Assets/Shirt.png"
     },
   ]
 
+}
