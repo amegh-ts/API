@@ -1,0 +1,12 @@
+// data.json
+{
+  "apiData": [
+    {
+      "id": 1,
+      "type": "male",
+      "name": "shirt",
+      "thumbnail": "./Assets/Shirt.png"
+    },
+    // Add more API data if needed
+  ]
+}
